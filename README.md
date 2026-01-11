@@ -51,4 +51,5 @@ SpendSense is a modern web-based personal finance tool that enables users to tra
 
 ## 🚀 Live Demo (GitHub Pages)
 
-> Will appear after deployment:
+🔗 https://srushtidumbhare7-ad.github.io/spendsense-expense-tracker/
+
